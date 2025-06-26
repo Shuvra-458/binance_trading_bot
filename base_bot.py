@@ -14,7 +14,7 @@ class TradingBot:
              self.client = Client(api_key, api_secret, testnet=True)
         else:
              self.client = Client(api_key, api_secret)
-        logging.basicConfig(filename='logs/bot.log', level=logging.INFO,
+        logging.basicConfig(level=logging.INFO,
                             format='%(asctime)s - %(levelname)s - %(message)s')
         logging.info("Bot initialized")
 
