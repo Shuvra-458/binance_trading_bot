@@ -12,8 +12,8 @@ class TradingBot:
     def __init__(self, api_key, api_secret, testnet=True):
         self.client = Client(api_key, api_secret)
         if testnet:
-            self.client.FUTURES_URL = 'https://testnet.binancefuture.com'
             self.client.API_URL = 'https://testnet.binancefuture.com'
+            self.client.FUTURES_URL = 'https://testnet.binancefuture.com'
         logging.basicConfig(filename='logs/bot.log', level=logging.INFO,
                             format='%(asctime)s - %(levelname)s - %(message)s')
         logging.info("Bot initialized")
