@@ -53,3 +53,8 @@ Set test_mode=True in the code to simulate orders without placing them on Binanc
 Uses Binance Futures Testnet: https://testnet.binancefuture.com
 
 Make sure to add funds using the testnet faucet.
+
+Sample Run Demo:
+![Screenshot 2025-06-26 134634](https://github.com/user-attachments/assets/a8943184-e4d9-4dc0-af82-4b934ebf2310)
+![Screenshot 2025-06-26 134634](https://github.com/user-attachments/assets/a8943184-e4d9-4dc0-af82-4b934ebf2310)
+
