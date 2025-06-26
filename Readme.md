@@ -18,7 +18,7 @@ This is a simplified Binance Futures trading bot for PrimeTrade.ai's internship 
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/binance_project.git
+git clone https://github.com/Shuvra-458/binance_project.git
 cd binance_project
 
 2. Create and activate a virtual environment:
@@ -54,7 +54,5 @@ Uses Binance Futures Testnet: https://testnet.binancefuture.com
 
 Make sure to add funds using the testnet faucet.
 
-Sample Run Demo:
-![Screenshot 2025-06-26 134634](https://github.com/user-attachments/assets/a8943184-e4d9-4dc0-af82-4b934ebf2310)
-![Screenshot 2025-06-26 134634](https://github.com/user-attachments/assets/a8943184-e4d9-4dc0-af82-4b934ebf2310)
+
 
